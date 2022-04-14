@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa515673-fe96-4381-8b06-e5bea5ba24dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/src/com/company/Project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/src/com/company/Project2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/src/com/company/Project3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/src/com/company/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.10/src/com/company/Project6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.12/src/com/company/Project7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/lab_rob_5.14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/out/production/lab_rob_5.14/com/company/Project1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/out/production/lab_rob_5.14/com/company/Project2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/out/production/lab_rob_5.14/com/company/Project3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/out/production/lab_rob_5.14/com/company/Project4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/out/production/lab_rob_5.14/com/company/Project5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/src/com/company/Project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/src/com/company/Project2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/src/com/company/Project3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/src/com/company/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.14/src/com/company/Project5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Project1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Project1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Project2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Project2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Project3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/src/com/company/Project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/src/com/company/Project2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/src/com/company/Project3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/src/com/company/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/src/com/company/Project5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab_rob_5.8/src/com/company/Project6.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27n5F9wJdddkgobTeVKXvGiPKcf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Project3">
+    <configuration name="Project1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Project1" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Project10" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Project2" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Project3" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Project2" />
+      <item itemvalue="Application.Project1 (2)" />
+      <item itemvalue="Application.Project1 (3)" />
+      <item itemvalue="Application.Project10" />
+      <item itemvalue="Application.Project3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Project3" />
+        <item itemvalue="Application.Project2" />
+        <item itemvalue="Application.Project1 (2)" />
+        <item itemvalue="Application.Project10" />
+        <item itemvalue="Application.Project1 (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa515673-fe96-4381-8b06-e5bea5ba24dc" name="Changes" comment="" />
+      <created>1649942929293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649942929293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
